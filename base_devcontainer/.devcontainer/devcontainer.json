@@ -1,0 +1,5 @@
+{
+  "name": "test-devcont-cli",
+  "image": "openjdk:11",
+  "postCreateCommand": "touch /test1"
+}

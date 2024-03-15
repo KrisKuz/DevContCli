@@ -1,0 +1,5 @@
+{
+  "name": "parent-devcontainer",
+  "image": "our-own-devc-cli",
+  "postCreateCommand": "touch /test2"
+}
