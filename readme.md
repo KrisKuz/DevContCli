@@ -1,7 +1,7 @@
 * install devcontainers cli:
 `npm install -g @devcontainers/cli`
 * 
-docs: [link](https://github.com/devcontainers/cli)
+[link](https://github.com/devcontainers/cli)
 
 * build base devcontianer in base_devcontainer folder: `devcontainer build --workspace-folder .`
 ```View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/tsnte32oc4br871pwistdhme6

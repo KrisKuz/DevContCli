@@ -1,5 +1,5 @@
 {
   "name": "parent-devcontainer",
-  "image": "our-own-devc-cli",
+  "image": "vsc-base_devcontainer-4d798f77395be3f1f63e7c635e3eb315d234531aaa92c4f771a528ffa3670c8a-features",
   "postCreateCommand": "touch /test2"
 }
